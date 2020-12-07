@@ -5,6 +5,6 @@
         <title>Strona główna</title>
     </head>
     <body>
-        działa <3
+        working <3
     </body>
 </html>
